@@ -8,6 +8,10 @@ I came up with this experiment to test my recent research on the Minimax Alpha-B
 2. Human vs. Monte Carlo Tree Search (MCTS)
 3. Minimax Alpha-Beta Pruning vs. Monte Carlo Tree Search (MCTS)
 
+## Limitations
+
+This experiment does not include neural networks or deep learning techniques, as it focuses on traditional game tree search algorithms. Well, I might still put it in my future research plan.
+
 ## TBA
 
 
