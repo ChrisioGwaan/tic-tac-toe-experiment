@@ -1,0 +1,162 @@
+[
+  {
+    "x": "Random",
+    "o": "Random",
+    "games": 10,
+    "x_wins": 10,
+    "o_wins": 0,
+    "draws": 0,
+    "seconds": 0.0012158999452367425,
+    "peak_mib": 0.199
+  },
+  {
+    "x": "Random",
+    "o": "MCTS",
+    "games": 10,
+    "x_wins": 0,
+    "o_wins": 0,
+    "draws": 10,
+    "seconds": 0.2864337000064552,
+    "peak_mib": 1.48
+  },
+  {
+    "x": "Random",
+    "o": "Minimax",
+    "games": 10,
+    "x_wins": 0,
+    "o_wins": 10,
+    "draws": 0,
+    "seconds": 0.2903683000477031,
+    "peak_mib": 0.0
+  },
+  {
+    "x": "Random",
+    "o": "A*",
+    "games": 10,
+    "x_wins": 0,
+    "o_wins": 10,
+    "draws": 0,
+    "seconds": 0.08691189996898174,
+    "peak_mib": 0.004
+  },
+  {
+    "x": "MCTS",
+    "o": "Random",
+    "games": 10,
+    "x_wins": 10,
+    "o_wins": 0,
+    "draws": 0,
+    "seconds": 0.2683084999443963,
+    "peak_mib": 1.172
+  },
+  {
+    "x": "MCTS",
+    "o": "MCTS",
+    "games": 10,
+    "x_wins": 0,
+    "o_wins": 0,
+    "draws": 10,
+    "seconds": 0.5808255999581888,
+    "peak_mib": 0.977
+  },
+  {
+    "x": "MCTS",
+    "o": "Minimax",
+    "games": 10,
+    "x_wins": 0,
+    "o_wins": 0,
+    "draws": 10,
+    "seconds": 0.6302471000235528,
+    "peak_mib": 1.594
+  },
+  {
+    "x": "MCTS",
+    "o": "A*",
+    "games": 10,
+    "x_wins": 0,
+    "o_wins": 0,
+    "draws": 10,
+    "seconds": 0.38744279998354614,
+    "peak_mib": 0.223
+  },
+  {
+    "x": "Minimax",
+    "o": "Random",
+    "games": 10,
+    "x_wins": 10,
+    "o_wins": 0,
+    "draws": 0,
+    "seconds": 1.3112464000005275,
+    "peak_mib": 0.0
+  },
+  {
+    "x": "Minimax",
+    "o": "MCTS",
+    "games": 10,
+    "x_wins": 0,
+    "o_wins": 0,
+    "draws": 10,
+    "seconds": 1.5495515000075102,
+    "peak_mib": 0.0
+  },
+  {
+    "x": "Minimax",
+    "o": "Minimax",
+    "games": 10,
+    "x_wins": 0,
+    "o_wins": 0,
+    "draws": 10,
+    "seconds": 1.5913597999606282,
+    "peak_mib": 0.0
+  },
+  {
+    "x": "Minimax",
+    "o": "A*",
+    "games": 10,
+    "x_wins": 10,
+    "o_wins": 0,
+    "draws": 0,
+    "seconds": 1.3837164000142366,
+    "peak_mib": 0.0
+  },
+  {
+    "x": "A*",
+    "o": "Random",
+    "games": 10,
+    "x_wins": 10,
+    "o_wins": 0,
+    "draws": 0,
+    "seconds": 0.28548680001404136,
+    "peak_mib": 0.0
+  },
+  {
+    "x": "A*",
+    "o": "MCTS",
+    "games": 10,
+    "x_wins": 0,
+    "o_wins": 10,
+    "draws": 0,
+    "seconds": 0.5301701999269426,
+    "peak_mib": 0.0
+  },
+  {
+    "x": "A*",
+    "o": "Minimax",
+    "games": 10,
+    "x_wins": 0,
+    "o_wins": 0,
+    "draws": 10,
+    "seconds": 0.6837971999775618,
+    "peak_mib": 0.0
+  },
+  {
+    "x": "A*",
+    "o": "A*",
+    "games": 10,
+    "x_wins": 10,
+    "o_wins": 0,
+    "draws": 0,
+    "seconds": 0.3915741000091657,
+    "peak_mib": 0.0
+  }
+]
